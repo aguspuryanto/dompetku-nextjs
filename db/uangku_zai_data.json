@@ -1,0 +1,236 @@
+[
+  {
+    "id": "1760763591683",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 86500,
+    "date": "2025-10-13",
+    "notes": "deposit gotrade",
+    "createdAt": "2025-10-18T04:59:51.683Z"
+  },
+  {
+    "id": "1760772871967",
+    "type": "income",
+    "category": "Gaji",
+    "amount": 9626903,
+    "date": "2025-09-30",
+    "notes": "gaji",
+    "createdAt": "2025-10-18T07:34:31.967Z"
+  },
+  {
+    "id": "1760772930508",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 740000,
+    "date": "2025-09-30",
+    "notes": "kripto",
+    "createdAt": "2025-10-18T07:35:30.508Z"
+  },
+  {
+    "id": "1760773011552",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 1000000,
+    "date": "2025-09-30",
+    "notes": "reksadana",
+    "createdAt": "2025-10-18T07:36:51.552Z"
+  },
+  {
+    "id": "1760773034152",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 1221300,
+    "date": "2025-09-30",
+    "notes": "saham",
+    "createdAt": "2025-10-18T07:37:14.152Z"
+  },
+  {
+    "id": "1760773062672",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 3239000,
+    "date": "2025-09-30",
+    "notes": "angsuran 42 GBR",
+    "createdAt": "2025-10-18T07:37:42.672Z"
+  },
+  {
+    "id": "1760773175779",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 500000,
+    "date": "2025-09-30",
+    "notes": "tarik tunai",
+    "createdAt": "2025-10-18T07:39:35.779Z"
+  },
+  {
+    "id": "1760773215428",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 466300,
+    "date": "2025-09-30",
+    "notes": "deposit ke flip",
+    "createdAt": "2025-10-18T07:40:15.428Z"
+  },
+  {
+    "id": "1760773313214",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 275301,
+    "date": "2025-09-30",
+    "notes": "rabendra pinjam",
+    "createdAt": "2025-10-18T07:41:53.214Z"
+  },
+  {
+    "id": "1760773952342",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 60000,
+    "date": "2025-10-04",
+    "notes": "shopeepay",
+    "createdAt": "2025-10-18T07:52:32.342Z"
+  },
+  {
+    "id": "1760773992349",
+    "type": "income",
+    "category": "Lainnya",
+    "amount": 100000,
+    "date": "2025-10-05",
+    "notes": "ganti biaya teknisi air",
+    "createdAt": "2025-10-18T07:53:12.349Z"
+  },
+  {
+    "id": "1760774017342",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 500000,
+    "date": "2025-10-05",
+    "notes": "tarik tunai",
+    "createdAt": "2025-10-18T07:53:37.342Z"
+  },
+  {
+    "id": "1760774047194",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 250309,
+    "date": "2025-10-06",
+    "notes": "deposit flip",
+    "createdAt": "2025-10-18T07:54:07.194Z"
+  },
+  {
+    "id": "1760774128656",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 55000,
+    "date": "2025-10-08",
+    "notes": "shopeepay",
+    "createdAt": "2025-10-18T07:55:28.656Z"
+  },
+  {
+    "id": "1760774156168",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 100000,
+    "date": "2025-10-08",
+    "notes": "shopeepay",
+    "createdAt": "2025-10-18T07:55:56.168Z"
+  },
+  {
+    "id": "1760774187054",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 60000,
+    "date": "2025-10-10",
+    "notes": "makan AW",
+    "createdAt": "2025-10-18T07:56:27.054Z"
+  },
+  {
+    "id": "1760774212861",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 500000,
+    "date": "2025-10-11",
+    "notes": "tarik tunai",
+    "createdAt": "2025-10-18T07:56:52.861Z"
+  },
+  {
+    "id": "1760774237451",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 45000,
+    "date": "2025-10-11",
+    "notes": "shopeepay",
+    "createdAt": "2025-10-18T07:57:17.451Z"
+  },
+  {
+    "id": "1760774260316",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 200000,
+    "date": "2025-10-11",
+    "notes": "perawatan",
+    "createdAt": "2025-10-18T07:57:40.316Z"
+  },
+  {
+    "id": "1760774292113",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 85305,
+    "date": "2025-10-11",
+    "notes": "deposit gotrade",
+    "createdAt": "2025-10-18T07:58:12.113Z"
+  },
+  {
+    "id": "1760774330282",
+    "type": "income",
+    "category": "Lainnya",
+    "amount": 84000,
+    "date": "2025-10-13",
+    "notes": "refund gotrade",
+    "createdAt": "2025-10-18T07:58:50.282Z"
+  },
+  {
+    "id": "1760774397613",
+    "type": "income",
+    "category": "Lainnya",
+    "amount": 1002907,
+    "date": "2025-10-16",
+    "notes": "penjualan reksadana",
+    "createdAt": "2025-10-18T07:59:57.613Z"
+  },
+  {
+    "id": "1760774432102",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 400000,
+    "date": "2025-10-16",
+    "notes": "saham bareksa",
+    "createdAt": "2025-10-18T08:00:32.102Z"
+  },
+  {
+    "id": "1760774457659",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 17000,
+    "date": "2025-10-17",
+    "notes": "biaya adm",
+    "createdAt": "2025-10-18T08:00:57.659Z"
+  },
+  {
+    "id": "1760774489252",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 35000,
+    "date": "2025-10-18",
+    "notes": "bayar iuran dan air",
+    "createdAt": "2025-10-18T08:01:29.252Z"
+  },
+  {
+    "id": "1760774516450",
+    "type": "expense",
+    "category": "Lainnya",
+    "amount": 170000,
+    "date": "2025-10-25",
+    "notes": "bayar internet",
+    "createdAt": "2025-10-18T08:01:56.450Z"
+  }
+]
